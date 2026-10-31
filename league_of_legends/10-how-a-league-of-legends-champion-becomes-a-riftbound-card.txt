@@ -1,0 +1,32 @@
+CATEGORY: league_of_legends
+SOURCE: PCGamesN
+TITLE: How a League of Legends champion becomes a Riftbound card
+URL: https://www.pcgamesn.com/league-of-legends/making-a-riftbound-card
+PUBLISHED: 2026-10-12
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Riftbound Game Director Dave Guskin tells us how League of Legends champions are translated into Riftbound cards to capture their essence.
+
+Ever wondered how your favorite League of Legends character is converted from an avatar powered by your twitch reflexes and perfect awareness into a playing piece for the budding TCG Riftbound?
+
+On the face of it, lane-based MOBAs and strategy card games share little DNA, so it seems like transporting the mechanics from one to the other, and still having the champions that so many fans have an attachment to feel true, would be a daunting challenge.
+
+"There's folks on my team who are very good at this, and I appreciate them every day," says Dave Guskin, Riftbound's Game and Design Director. He says it's all about looking at the 'kit' of a League of Legends champion and figuring out what's resonant, whether it's Zed with his shadow stepping, or Miss Fortune and her bullets.
+
+"If you can take that and translate it to some aspect of the way that their 'kit' plays in Riftbound, which is of course their whole deck, then I think you can start to get that correspondence."
+
+"It's not always going to be an exact translation," Guskin adds. "In League of Legends, Ezreal has a bunch of teleporty, really quick movement stuff. How do we represent that in Riftbound?
+
+"Oh, quick movement between the battlefields… That's not exactly one to one with the way mobility works in the MOBA, and so there's a lot of testing that happens where we take mechanics we think might work, try to translate them into their card game equivalents, play them, see if they're fun.
+
+"Sometimes it's like, no, this is not fun to represent this faithfully, and then we'll try a different aspect of either their mechanical identity or sometimes their thematic identity."
+
+As an example of a design that had to go back to the drawing board, he gives Darius. "We tried some things with Darius with his execute that just felt very frustrating from the other side of the table, when Darius was executing you, and so we ended up putting that in his signature spell. You know, when it's on a unit, it doesn't necessarily feel fun."
+
+One challenge is that in LoL there are "tons of tunable" levers - cooldowns, minor stat tweaks - that don't apply in Riftbound. A repeatable execute ability on a Darius Champion unit might feel bad. "Once you have this, you could use it over and over".
+
+As for a champion Guskin feels the team absolutely nailed, the designer lists Rengar. There's not a specific mechanic we ported over, he says, but the way that Rengar plays definitely feels like he's hunting you.
+
+"It's sort of built around this ambush mechanic, right? I can see that my opponent has their runes available. I'm terrified that he's going to jump out of the bushes and slice me up. And that's in fact what happens. It's rewarding the same thing that Rengar mains would do in League of Legends."

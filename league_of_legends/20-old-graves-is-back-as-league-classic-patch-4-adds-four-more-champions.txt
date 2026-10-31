@@ -1,0 +1,32 @@
+CATEGORY: league_of_legends
+SOURCE: PCGamesN
+TITLE: Old Graves is back as League Classic patch 4 adds four more champions to the mix
+URL: https://www.pcgamesn.com/league-of-legends/classic-patch-4
+PUBLISHED: 2026-09-18
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Riot Game Designer Phreak walks us through everything in League of Legends Classic patch 4, including Graves, Fizz, Nami, and Nautilus.
+
+It's time to take a look at League of Legends Classic patch 4, and as usual we've got longtime Riot Games veteran and Game Designer David 'Phreak' Turley on hand to walk us through everything in the new League Classic update. Graves has been high on the priority list ever since the throwback version of the MOBA was first announced, and now it's finally his time to take to the field, along with three more champions themed around Bilgewater and the oceans in general.
+
+To start with, Phreak takes a quick look at the first vote from The Council, which everyone can earn votes towards simply by playing League of Legends Classic. The results were largely positive, with a majority of players (52.8%) agreeing that the current average game length is "about right," and a similar count (48.8%) saying the amount of snowballing is in a good place.
+
+Voters also called for modern jungle timers that are always visible, approved of ward trinkets as a positive feature, and said yes to all three proposed new items: Zz'Rot Portal, Cloak and Dagger, and Moonflair Spellblade. Phreak takes a moment to respond to some community concerns about whether the opinions of certain regions might get drowned out by others: "I don't want to give too much detail, but no one server single-handedly swung any vote."
+
+Phreak previously noted that "every single patch for the foreseeable future has more than one champion in it," and our four additions this time are all themed around the sea. Starting off is an old favorite of mine, Fizz. His kit will feel largely familiar, although you'll want to note changes such as Seastone Trident's damage scaling based on missing health percentage, while the active applies grievous wounds to impair healing. His ultimate, Chum the Waters, doesn't have the distance-based scaling here, so you can use it up close to great effect.
+
+Old-school Graves has been heavily teased, and now he's here. True Grit grants stacking armor and MR the longer he stays in combat. Buckshot is a three-shot cone skillshot that can multi-hit a single target. Smoke Screen damages and slows enemies inside its cloud, while also limiting their vision. Quickdraw dashes forward and applies an attack speed boost; its cooldown drops as you auto-attack opponents. His ultimate, Collateral Damage, is mostly like live with its cone AoE on hit, but without sending Graves backwards.
+
+Nami is another that should feel fairly familiar, though keep in mind that Tidecaller's Blessing only works on auto-attacks in its older form, not abilities. Also, "period accurate" is her ultimate, Tidal Wave, where the projectile spawns in front of her rather than around her the way it does on live. This means that an opponent standing behind her when she uses it will not get knocked up in Classic the way they would in the modern game. Phreak notes there's "a real argument" for changing this, but says the team wanted to try it out in its original form to start with.
+
+Last on the list is Nautilus, who is also relatively close to his present-day incarnation, though there are some changes to watch out for. Using Dredge Line to hook to terrain does not refund half the mana cost in Classic, only the cooldown. His ultimate, Depth Charge, still deals damage, knockup, and stun on the target it hits, but the trail along the way only damages and knocks up - it doesn't stun the way the live version does. This means you should focus on the opponent you want to disable most, rather than the one furthest away.
+
+On the balance side of things, there are buffs to Akali, Galio, Kassadin, Poppy, and Shyvana, while Fiora, Morgana, and Twisted Fate face nerfs. Additionally, all global passives now instantly disable when a champion dies. Phreak notes that this can be considered "minor nerfs" to the affected characters, including the likes of Janna, Twisted Fate, and Zilean.
+
+That's all for the update, although Phreak also addresses claims on social media that botting is "rampant" in League Classic. "There is very little conventional botting," he responds, "it is in line with other League game modes." He notes that he investigated "about two days" of reports of suspicious play, and concluded that "every single one of those games was cut and dry, very clearly, not a bot. It was a new player, or at least a player new to Classic."
+
+Some of these were players with "hundreds of games" in standard League of Legends, who "came in and weren't good at Classic, and then went away." Others were "truly brand new," including one who didn't buy any items until their second death. "It's not a bot, it's a brand-new player." Phreak does acknowledge that there are "some very large issues with how we seed players in Classic," which in particular is causing some newcomers (of which he notes there are "thousands" every day) to end up in the wrong skill bucket.
+
+League Classic patch 23 is expected to release on Wednesday, September 23. Another Council vote will also be taking place, with a vote on the 'next' champion to be added - Phreak explains that "champions take well over a month to actually make, so really it's of champs who haven't started work yet." There will be five options, and you can help decide which of them Riot should prioritize bringing into the game.

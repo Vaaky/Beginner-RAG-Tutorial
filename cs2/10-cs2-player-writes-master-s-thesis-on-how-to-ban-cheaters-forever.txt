@@ -1,0 +1,44 @@
+CATEGORY: cs2
+SOURCE: Dexerto
+TITLE: CS2 player writes master’s thesis on how to ban cheaters forever instead of just accounts - Dexerto
+URL: https://www.dexerto.com/counter-strike-2/cs2-player-writes-masters-thesis-on-how-to-ban-cheaters-forever-instead-of-just-accounts-3416037/
+PUBLISHED: 2026-10-06
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+A Counter-Strike 2 player has developed a system that could allow bans to follow individual players rather than accounts, making it harder for cheaters to simply start over.
+
+Created as part of a master’s thesis at the Norwegian University of Science and Technology, the system uses behavioral biometrics to identify players based on how they use their mouse and keyboard.
+
+It works entirely from the match demos CS2 already records, creating what the researcher calls a “CS-fingerprint” for each player.
+
+“Bans hit accounts, so cheaters just make new ones,” the researcher explained on Reddit.
+
+The method compares mouse and keyboard behavior across demos to determine whether two accounts are likely being used by the same person.
+
+In testing, the mouse fingerprint identified the correct player every time across a dataset of more than 1,000 players, while the keyboard fingerprint did so 98% of the time. Combining the two reportedly separated every known same-player pairing from unrelated accounts.
+
+The system also appeared to uncover previously unknown smurfs. Several apparent false positives were manually checked and found to be additional accounts belonging to players already in the dataset.
+
+After those discoveries were added, the researcher said the system correctly identified all 13 known same-person pairings.
+
+The goal would be to use the technology alongside systems such as VAC and Trust Factor, allowing a ban on one account to potentially follow a player onto another.
+
+“A cheater would get caught once, as a person, and stay caught,” he said.
+
+Valve stops hackers abusing CSGO’s Overwatch to ban innocent players
+
+Game-breaking Counter-Strike 2 bug gives every player cheats
+
+Overwatch 2 bans over 500,000 cheaters and console’s “worst” M&K abusers
+
+He explained that “players repeat a small set of actions thousands of times under constant pressure for speed and precision, such as flicks, counter-strafes, spray control and utility.
+
+“Over time those actions stop being deliberate and become muscle memory, and involuntary, habitual input is exactly what behavioural biometrics is built to measure. You can change your name, your rank, your account, your weapon and even your play style. It is much harder to change your hands.”
+
+However, the researcher stressed that the method has not yet been tested at the scale of CS2’s full player base and suggested account links should initially be treated as additional evidence rather than automatic grounds for a ban.
+
+The system also fails if an account is shared by more than one player, as of course there is now different mouse and keyboard usage on the same account.
+
+Magga is now hoping Valve or third-party matchmaking platforms will help test the system on a much larger pool of players.

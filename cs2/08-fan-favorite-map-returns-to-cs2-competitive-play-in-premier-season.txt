@@ -1,0 +1,30 @@
+CATEGORY: cs2
+SOURCE: PCGamesN
+TITLE: Fan-favorite map returns to CS2 competitive play in Premier Season Five
+URL: https://www.pcgamesn.com/counter-strike-2/fan-favorite-map-returns-premier
+PUBLISHED: 2026-06-23
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Counter-Strike 2's Premier Season Four ends on July 6, with fan-favorite Cache returning to the Active Duty map pool in place of Overpass.
+
+Valve has confirmed that Cache is returning to the Active Duty pool in Counter-Strike 2, replacing Overpass when Premier Season Four ends on July 6. It's a major return for the map, which hasn't featured in competitive play for seven years, but after remaking the map and updating it for CS2, Valve has finally pulled the trigger.
+
+Cache returned to the popular FPS game on Tuesday, April 28, seven years after it was removed from the game. During that time, Valve announced and released Counter-Strike 2, transitioning the game from the original Source engine to Source 2 and improving its graphics. With the new engine, classic CS:GO maps looked dated, so work on remaking them began with Inferno, Train, and Overpass, with Cache joining the ranks this year.
+
+Now, it'll be available in CS2's Premier mode, the game's Competitive playlist, where players fight to earn rating points in the same maps and rulesets as the professional game.
+
+In a tweet on June 22, Valve confirmed that the Season Five Active Duty map pool will see one of those remakes removed, with Overpass making way for Cache when it kicks off. Valve also confirmed that Season Four is coming to a close, with Monday, July 6, announced as the end date.
+
+If you haven't earned your Premier Season Four medal yet, then you'll need to have 25 wins this season before it ends. Your CS Rating also needs to be visible, which means you'll need to win a match within 14 days of July 6.
+
+Season Four of Premier ends on July 6th.
+
+You must have 25 Season Four Premier wins and a visible CSR when the Season concludes to earn your Premier Season Four medal.
+
+The map changes mean there will be seven maps in the Active Duty pool in Season Five: Dust 2, Inferno, Mirage, Nuke, Ancient, Anubis, and Cache. These maps will also be used in professional matches, starting with BLAST Bounty on July 21.
+
+The community feedback on the news has been mixed, with many frustrated that Overpass has been removed just a year after it joined the Active Duty pool. There's also some frustration over the fact that Mirage remains in the pool, as it is consistently one of the most-played maps in CS2, and many have grown bored of it.
+
+Regardless, Cache is officially back, and it's time to get practicing. Unfortunately, I've forgotten every smoke grenade lineup I ever knew on the map, so I'll need to get into a private lobby and start learning them all over again.

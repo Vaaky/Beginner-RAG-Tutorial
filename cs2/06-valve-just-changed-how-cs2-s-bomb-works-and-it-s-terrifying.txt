@@ -1,0 +1,24 @@
+CATEGORY: cs2
+SOURCE: PCGamesN
+TITLE: Valve just changed how CS2's bomb works, and it's terrifying
+URL: https://www.pcgamesn.com/counter-strike-2/update-season-5
+PUBLISHED: 2026-07-09
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+The Counter-Strike 2 Season 5 update is here, with a bomb damage rework, new map rotations and armory skins, and a curious grenade command.
+
+Counter-Strike 2 Season 5 is here, and Valve continues to show a willingness to shake up its beloved FPS. Along with all the usual skins, stickers, and armory adjustments you'd expect, and the official implementation of Cache, the most striking part of the new CS2 patch notes is a redesign of the way bombs detonate. The more realistic explosions will give you more options to survive, if you're smart about it. Alongside this comes an interesting console command that lets you manually shoot grenades to detonate them, which now has me mulling over the possible ramifications for the future.
+
+The bomb explosion has been a constant in CS2 for years. You know where you stand, quite literally: too close, and it's goodbye when it blows. Season 5 redesigns the effective range and extent of C4 damage, meaning it's time to finally rethink that formula. "Now, when the bomb detonates, an explosive wave of destruction will flow from the bombsite through the map," Valve describes. My first impression is that the new-look detonation is far more terrifying to watch, sending a rapid wave of force and fire curling around corners. The good news is that it might make survival easier.
+
+Standing too close to the bomb will still be just as deadly as before, but, as Valve explains, "the shockwave dissipates around corners and doesn't go through walls, so at a certain distance you can use your wits to survive." This has been pre-calculated for all official defusal maps, and you can actually test it for yourself using CS2 console commands. Type in 'cl_bake_bomb_damage_debug 1' to see site A's detonation pathing, or use a '2' instead for site B. You'll also see your expected damage reflected on your health bar before the bomb goes off.
+
+'Gabe Follower' demonstrates the commands in action in the video above. That's not all, because players have found another interesting console trick in the new update. Using 'mp_shoot_dropped_grenades 1' will allow you to shoot and damage thrown grenades to detonate them. This can also cause chain reactions. Like the previous command, this will only work in private testing. It does throw up the question of whether this is something Valve is testing as a possible inclusion for the future, however.
+
+With the launch of CS2 Premier Season 5, Cache comes into the active duty map pool, replacing Overpass. In other modes, the rotation takes out the community maps Warden, Stronghold, Alpine, and Sanctum. Coming in to replace them in Competitive, Casual, and Deathmatch are Boulder, Fachwerk, and Shelter, while Debris and El Dorado join the lineup for Wingman.
+
+You might remember Valve putting out a call to arms for more custom skins based on spy tech and Arabian mythology at the end of 2025. Both of those collections are now here as part of the Season 5 Armory update, along with the 'Fruits and Vegetables' and 'Auto Racing' sticker sets requested at the same time. The full release notes also address some bugs, such as being unable to pick up dropped weapons through the buy menu, and include a fix for a pixel gap outside tunnel in Dust II.
+
+The Counter-Strike Season 5 update is live now. I'd certainly recommend heading into the testing ground just to get a feel for how the new detonations work and looking for good spots to retreat to. As for me, I'm sitting here quietly hoping that those grenade chain reactions become a real thing soon, because it could open up the door to some really clever plays and memorable highlight moments - and that's what CS2 is all about.

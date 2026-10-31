@@ -1,0 +1,28 @@
+CATEGORY: valorant
+SOURCE: Dexerto
+TITLE: Riot responds after Valorant player claims a used CPU got them banned
+URL: https://www.dexerto.com/valorant/riot-responds-after-valorant-player-claims-a-used-cpu-got-them-banned-3415806/
+PUBLISHED: 2026-10-05
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+A German Valorant player bought a secondhand CPU, then discovered it had arrived with a stranger’s cheating ban already attached.
+
+That’s a grim twist for anyone siphoning savings into a cheaper upgrade, and it landed only weeks after Riot anti-cheat director Phillip Koskinas publicly named the Evil Tung Tung Tung Sahur cheater that Vanguard had banned after just three games. Riot relishes a swift ban, but this time the alleged culprit had already cashed out.
+
+Reddit user After-Cartoonist-196 wrote on the German PCBaumeister subreddit that Valorant booted them the moment they launched the game with a used Ryzen 7 5800X3D, a chip they’d only owned since September 21, even though the game had run perfectly on their old processor.
+
+When they contacted Riot, support allegedly told them the CPU’s serial number sat on Vanguard’s blacklist after a hardware ban dated August 12, apparently because its previous owner had cheated with it. Worse still, the player claimed support said their motherboard and storage drive were now flagged too, and that nothing could be done.
+
+Koskinas wasn’t buying the whole story, though. He said on X that he couldn’t find a support ticket matching the player’s details and called the account “pretty unlikely,” since Riot’s hardware bans last four months at most, only apply to the game where the cheating happened, and require support to tell players how long they have left. He also flatly denied that Vanguard blacklists the rest of a PC when it spots one banned part.
+
+Still, even Riot’s tidiest version leaves an innocent buyer benched until mid-December, because a ban logged on August 12 won’t expire before then, and you still have no way to check a used CPU for a cheater’s baggage before you hand over the cash.
+
+Evil Tung Tung Tung Sahur hacker wipes entire Valorant lobbies and mocks kernel anti-cheat
+
+Riot Games responds to backlash after boasting that Vanguard anti-cheat can “brick” hardware
+
+Richard Lewis: Can we trust Valorant’s anti-cheat?
+
+It isn’t the first time Vanguard’s grip on PC hardware has spooked players, either, since Riot scrambled to placate a furious crowd in May after boasting that its anti-cheat could brick hardware.

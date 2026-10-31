@@ -1,0 +1,22 @@
+CATEGORY: cs2
+SOURCE: PCGamesN
+TITLE: New CS2 update tackles 'slur leaderboards' and adds fresh Cache spawns
+URL: https://www.pcgamesn.com/counter-strike-2/cs2-update-chat-encryption
+PUBLISHED: 2026-09-10
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Valve’s new Counter-Strike 2 update encrypts chat logs, while the FPS game’s patch notes include fixes and extra spawns for the Cache map.
+
+Valve has rolled out a new Counter-Strike 2 update, and while most of the changes are adjustments to Cache, it's the introduction of fresh chat encryption that will likely have players talking - or perhaps the reverse. In August, it was discovered that CS2 tracking tools could publicly display chat logs showing what people had written during past matches. Along with the obvious privacy concerns, this also led to people with nothing better to do spending their time to see who could rack up the most offensive messages in the multiplayer game.
+
+Spurred by a desire for data, sites including CS2tracker started scanning the breadth of CS2 chat log history and tallying the number of times individual players had typed various offensive terms into public chats. As soon as these were displayed in a leaderboard-style ranking of the worst offenders, it didn't take long before some people took this as a challenge to see just how much vitriol they could get away with.
+
+These latest CS2 patch notes should, in theory, put a stop to such proceedings, with Valve noting that "chat is now encrypted in demo files using the same rules as CS:GO." This means team conversations cannot be seen at all when playing back demos, while global chat will only be readable when it's actively played back using the in-game watch UI.
+
+The rest of the patch includes several improvements to Cache, which joined the rotation in its overhauled form back in April. Valve has fixed "various gaps" across the map that were causing problems, along with a wallbang spot found on B site. In addition to this, it's introduced one competitive spawn point on the counter-terrorist side, and several spawns for the terrorist team.
+
+The update, which is now live, also makes some changes to map scripting. There are new commands for player camera controls, and a setting to determine whether game observers will view UI as the player they're currently spectating does. Valve has also solved "several bugs" that could be caused when changing between different spectator targets.
+
+Will this patch, and more specifically the introduction of fresh text log encryption, improve the quality of your public chats in CS2? Probably not, but at least players should no longer have an added incentive to be deliberately abrasive or type slurs for all to see in order to rise the ranks of the 'most toxic' chatters. Every little helps.

@@ -1,0 +1,22 @@
+CATEGORY: league_of_legends
+SOURCE: PCGamesN
+TITLE: Riot is finally changing Mel's reflect, but I'm going to miss League of Legends' most busted mechanic
+URL: https://www.pcgamesn.com/league-of-legends/mel-midscope-w-change
+PUBLISHED: 2026-10-21
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Mel's W, is finally getting a complete overhaul. As League of Legends players everywhere rejoice, I'm actually a little sad it's gone.
+
+Mel's W is, perhaps, the most broken League of Legends mechanic ever made. I remember the good ol' days of launch Yuumi supremacy, but Mel's Rebuttal is easily one of the most powerful abilities in the game, allowing you to reflect any projectile straight back at the champion who threw it. There are some quick reactions required, and you need to be clever about your timing, but it's easily the reason why she consistently sits at the top of the table, while simultaneously always being on the ban list. A good Mel player can easily take over a game. Sadly, I can't relate.
+
+In its October 20 blog post, however, Riot simply states that "we need to talk about Mel." While it explains that her first year in League of Legends went relatively well, by the middle of 2026 she was banned around 15 to 30% of the time, has a 45 to 47% win rate, but half of the play rate. Riot says that she's "no longer in an acceptable place," noting that, as pros and apex-level players continued to play her, it became "impossible to balance her existing kit into a place that still had a compelling amount of power without opponent frustration boiling over."
+
+The fix, then, is a new W. As a Mel player, that saddens me slightly: it was a core part of her persona, and one of the aspects that I'm sure drew a lot of fans to her. "We know her reflect is a significant part of what some Mel players love about her kit, and we tested many variations to try to preserve the reflection mechanic," Riot writes. "What we ultimately found though, was that any version that was not taking up her Ultimate slot was going to either remain unacceptably high frustration for opponents or be undesirable for most Mel players."
+
+Where Riot has landed is that Rebuttal will now destroy enemy projectiles and instead use them to proc a shield for both Mel and her nearby allies. The actual reflect mechanic is gone, and her other abilities are getting some smaller tweaks. Her root (E) is less for enemies that are closer to her, and the immediate burst from the Q isn't quite as bad. Searing Brilliance (Q), however, now has a flat cooldown refund if it hits at least one enemy champion, with her ultimate getting more cooldown reduction as it's leveled. This will hopefully allow you to stack faster with the passive, and in turn burst down more champions with the ult.
+
+Riot's Mel rework goes live with League of Legends patch 26.22 on Wednesday, November 4.
+
+While I love Mel, I'm not going to sit here and say that her W wasn't a problem - it absolutely was. I'll still miss it, but I don't hate this rework, either. It feels like it places her into a more supportive role versus mid or ADC, which works for me as a support main. We'll need to see if it does bring her back in line with everyone else, but in the meantime, make the most of all those reflects.

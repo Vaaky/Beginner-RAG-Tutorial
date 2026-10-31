@@ -1,0 +1,36 @@
+CATEGORY: valorant
+SOURCE: Dexerto
+TITLE: Riot cracks down on Valorant stream snipers with 13.05 update patch notes
+URL: https://www.dexerto.com/valorant/riot-cracks-down-on-valorant-stream-snipers-with-13-05-update-patch-notes-3404611/
+PUBLISHED: 2026-09-01
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Riot Games is cracking down on stream snipers and players who instalock Agents, revealing new penalties amongst the 13.05 update patch notes.
+
+Even though Valorant fans would love every update to come with some massive changes, there are times when Riot Games just has to push out some quick clean-up of bugs and roll out new security tools.
+
+This has been the case throughout 2026, with the Valorant devs kicking the year off by rolling out even more multi-factor authentication tools in a bid to stop smurfers and cheats running wild.
+
+With the summer coming to a close, they have rolled out a new update – 13.05 – which is targeting another set of annoying plays: insta-lockers and stream snipers.
+
+That’s right, after a rise of tools that allow players to instantly lock onto their chosen Agent, denying you the chance of even coming close to picking them, Riot are cracking down.
+
+“We’ve started rolling out penalties if we detect usage of stream sniping and instalock tools. Players found using these tools will be subject to temporary game bans that will escalate to permanent with repeated usage,” Riot said in the 13.05 patch notes.
+
+So, they’ll be keeping a keen eye on reports from streamers, as well as watching how quickly players choose their favorite Agents. Some players may get accidentally punished on the latter side of that, but we’ll have to wait and see.
+
+PICK' EMS. AGENT GEAR. SOUND SPRAYS. 13.05 is bringing back Pick' Ems for Champions Shanghai, Agent Gear is getting a refresh, and some sound spray adjustments. https://t.co/ukktjxvSVp
+
+As for other changes, Riot confirmed that the upcoming 13.06 patch will “be revamping the Agent Gear system” and “after Patch 13.06, each piece of gear will be tied directly to how much you play the associated Agent.”
+
+Valorant 13.01 patch notes bring Outlaw change and more rank manipulation penalties
+
+Valorant’s 13.00 patch notes bring massive Agent overhauls and Bandit changes
+
+Valorant 13.04 update patch notes bring Act 5 with Agent bug fixes
+
+Yet, you’ll have to wait on that front.
+
+The full 13.05 patch notes can be found below.

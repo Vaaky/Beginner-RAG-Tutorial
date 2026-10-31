@@ -1,0 +1,22 @@
+CATEGORY: league_of_legends
+SOURCE: PCGamesN
+TITLE: Riot has already called time on League of Legends Classic, will turn it into an event instead
+URL: https://www.pcgamesn.com/league-of-legends/classic-is-dead-event-mode
+PUBLISHED: 2026-10-15
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+League of Legends Classic will “end its current run” with the conclusion of Season 3, although Riot Games plans its return as an event mode.
+
+Riot has just killed League of Legends Classic, less than three months after it began. The throwback version of the MOBA attempted to roll back the clock, putting on rose-tinted glasses to tickle the nostalgia of those early years. From the very early stages, however, it was clear the developer wasn't quite sure what it should be. Now, it acknowledges that "at this point, most [players] have gone back to other parts of League," and so the current run is set to end alongside the Season 3 finale at the very start of 2027.
+
+Right from the beginning, there were signs that League Classic didn't have the magical spark that makes the likes of WoW Classic and Forever so appealing. After diving in at its launch, Cecilia quickly asserted it both "reminded me why I was so hooked," but simultaneously "forced me to accept why we left it behind." If anything, the experience was an exercise in coming to appreciate all the improvements that Riot has implemented into the version of League of Legends we have today.
+
+By the time its second update arrived, Game Designer David 'Phreak' Turley, a Riot Games veteran almost since day one and one of the leads working on champion design for Classic, announced that the team had changed its mind on the lineup. While it had initially planned to preserve a smaller pool of characters with more selective nuance over who joined, the developer shifted gears into "trying to build out the roster as fast as we can." It certainly did that, pumping out champs at an accelerated pace, but it hasn't been enough.
+
+"Classic will be available through the rest of Season 3 and will then end its current run in January 2027," Riot announces. "We'll then put Classic back in the box for now, with the goal of bringing it back, likely as an event mode with adjustments and additions." Any paid-for Classic-specific content that will no longer be usable is eligible for refunds, and the Act 2 Classic battle pass arriving in 26.21 will come with just a free track. From then on, you'll only find champions, runes, and rune pages in the Classic store.
+
+For those who are still playing, Riot reveals that its next update will feature Mordekaiser, Yorick, Hecarim, and Lucian. That'll arrive alongside LoL patch 26.21 on Wednesday October 21. After that, there will be at least two more patches worth of champion rollouts, including the top three from its community Council poll - Volibear, Urgot, and Udyr. There will also be windowed queues implemented in "regions where we've seen especially strong migration back to modern modes," although custom games will remain available.
+
+The studio calls Classic "a true labor of love from so many Rioters." It adds, "There's more we're going to share in the future about what we learned from this run. That includes where we think we got Classic right, where we could have gone more Classic, and where sticking too closely to the past may have held the experience back." Riot also asks for continued feedback on the mode as it considers what its future might look like.

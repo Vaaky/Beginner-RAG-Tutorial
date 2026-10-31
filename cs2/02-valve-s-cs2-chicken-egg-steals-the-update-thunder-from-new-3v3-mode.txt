@@ -1,0 +1,24 @@
+CATEGORY: cs2
+SOURCE: PCGamesN
+TITLE: Valve's CS2 Chicken Egg steals the update thunder from new 3v3 mode Rush
+URL: https://www.pcgamesn.com/counter-strike-2/update-rush-chicken-egg
+PUBLISHED: 2026-09-23
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+A new CS2 update introduces 3v3 mode Rush to Valve’s multiplayer FPS, but it’s the Chicken Egg drops and pets system that’s winning hearts.
+
+Valve just dropped a new Counter-Strike 2 update, and the big headline feature is new game mode Rush, a fast-paced set of 3v3 battles designed for quicker play. The new CS2 patch notes also include a wealth of other small improvements to the FPS game, such as silent reloads, refreshed Premier pick/ban rules, and clearer impact visibility, yet the actual talking point is the secret introduction of chickens. That's right; by finding the new Chicken Egg among your drops, you can now start raising your very own CS2 pet.
+
+Rush transforms the pace of traditional CS2 matches by cutting the team size down to just three players on each side. Rather than planting bombs, the goal is to control a small tower on the map and hold it while also taking out the enemy team. You'll flip through a random selection of the 15 arenas, ensuring matches feel different each time. It's a great way to warm up, or get your Counter-Strike legs for the first time as a newer player, and there's also a leaderboard to keep track of your wins.
+
+Before we get to the other, more boring tweaks, let's talk chickens. Valve didn't actually mention this in its latest CS2 patch notes, but you can find a Chicken Egg among your drops now, and if you click on it you'll see it twitch slightly. After a while, it'll hatch, and the resulting bird will grow as you feed it. Leave it too long without attention and it might disappear forever - but if you nurture it into a full-sized pet you can collect some commemorative photos, with seemingly 36 different color varieties of CS2 chickens to discover. Simply put, it's a cheeky way to make sure you log in regularly, and I'm a real sucker for that.
+
+Back to the action, and Premier picks and bans have been redesigned. Rather than the old system of both sides gradually eliminating unwanted locations until only one remains, each team now picks two of the possible options to create a pool, and then the game randomly selects one as the winner. This'll no doubt prove controversial among the community, but it should ensure a wider variety of maps actually see play, which seems to be Valve's goal.
+
+Silent reloads allow you to refresh your ammo count without cluing the enemy into the fact you're temporarily vulnerable. Hold down the reload key instead of tapping it, and you'll swap out your magazine much more slowly, but without making any noise. Alongside this, Valve has made unscoping from scoped weapons silent, which will be a huge boon to snipers who will no longer give away when they're taking their eye off that corner.
+
+Elsewhere, crosshairs have been upgraded with new customization options including more shapes. Bullet holes have been made larger, clearer, and more consistent at appearing on all surface types, while blood splatters are much bigger, giving you an easier time telling what you've hit even from long range. Stickers can now be applied to C4, and clan tags are back as well, so just pick one of your existing Steam groups to slap their tag in front of your in-game name.
+
+The Counter-Strike 2 Rush update is live now. It seems like we're due for more on the horizon as well, with players already digging up references in the game files to a new weapon called the M14. This would presumably be something akin to the classic US battle rifle used throughout the 1960s. There are also some extra mentions of 'Cbble,' which is expected to be a remake of the classic Cobblestone map arriving at some point in the future.

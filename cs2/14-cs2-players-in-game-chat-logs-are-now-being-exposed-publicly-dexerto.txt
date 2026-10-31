@@ -1,0 +1,44 @@
+CATEGORY: cs2
+SOURCE: Dexerto
+TITLE: CS2 players’ in-game chat logs are now being exposed publicly - Dexerto
+URL: https://www.dexerto.com/counter-strike-2/cs2-players-in-game-chat-logs-are-now-being-exposed-publicly-3403361/
+PUBLISHED: 2026-08-28
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Counter-Strike 2 players have discovered that messages they send during matches can be viewed publicly online, with some profiles showing hundreds or even thousands of old chat messages.
+
+The messages are being displayed by third-party CS2 statistics website cstracker.gg, which creates public profiles using data collected from Counter-Strike matches.
+
+Alongside typical stats including K/D ratio, win rate and match history, profiles can include a dedicated chat history containing messages players sent during tracked games.
+
+The discovery spread across the Counter-Strike community on August 27, with one Reddit post warning players that “everything you have ever said in text chat is now public info.”
+
+However, the archive is not necessarily a complete record of everything a player has ever said in CS2.
+
+According to cstracker.gg, its data comes from publicly available Steam information and processed CS2 match demos.
+
+Some of those demos contain messages sent during matches, allowing the website to attach them to individual player profiles alongside details including the map, round and timestamp.
+
+The site’s FAQ also notes that Valve only retains match demos for around 30 days, meaning older matches are not always available to be collected.
+
+Players have nevertheless found extensive histories on some accounts. One profile indexed by the site contained more than 2,800 messages across 388 matches.
+
+The feature has sparked privacy concerns among CS2 players, particularly because users do not need to create an account on cstracker.gg for information about them to appear.
+
+There are also streamers and pro players finding that their messages are out there for anyone to see. Twitch streamer Ludwig explained some of his logs on social media, after users questioned them.
+
+Massive 12TB Valve leak reveals early Portal 2 and CS:GO builds
+
+CS2 players starting to worry as Valve remains silent and updates slow down
+
+Counter-Strike 2 servers still run at 64 ticks while FACEIT reveals 128 tick
+
+1. I streamed it 2. The guy was insanely racist 3. All donations go to my mods 4. The earth warrior fights for earth https://t.co/Q6HNmZTDPG
+
+Meanwhile, legendary player s1mple includes messages like “RUSH B NOOBS” and “if you let us win I sign your profile.”
+
+s1mples chat messages are based 🐐😂 https://t.co/mteXGiCuiC pic.twitter.com/GknvYrJKuP
+
+CStracker says players can request the removal, correction or restriction of their profile data by contacting its privacy email address.

@@ -1,0 +1,20 @@
+CATEGORY: league_of_legends
+SOURCE: PCGamesN
+TITLE: Riot locks down League of Legends match replays, leaving plenty of players in the dark
+URL: https://www.pcgamesn.com/league-of-legends/match-replays-private
+PUBLISHED: 2026-10-07
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Match replays are now private in League of Legends, meaning players and third-party sites can no longer view old games they didn’t play in.
+
+Riot is removing players' ability to view replays from League of Legends matches unless it's a game you played in. Patch 26.20 restricts VOD reviews, essentially making them all private, meaning that other players can't access your old matches, and you can't access theirs.
+
+Reviewing match replays in League of Legends is a useful tool in many regards: taking notes from high-level players as a means of improving your own gameplay, learning new champions from experts, and sometimes it's just getting wind of something cool happening and wanting to see it for yourself. There are a ton of reasons for tuning in to other matches, but sadly, this is no longer possible.
+
+The reason behind the change, according to Riot, is to "close some security vulnerabilities that have recently been exploited by cheat developers and other bad actors to build unauthorized tools around League game data." There are also some restrictions on third-party access to game memory for the same reason.
+
+There is a link to a support article in the patch notes that would provide the full context for the latter change, but at the time of writing, it's broken. The decision to private match replays has come as a blow to those who rely on the function for their business - League of Legends coaches and Challenger replay YouTube channels have the most to say, as this restricts their access almost completely.
+
+It won't affect me as a player too much, although the next time my friend wants to show me their Teemo pentakill, I'll have to close my eyes and simply imagine the chaos.

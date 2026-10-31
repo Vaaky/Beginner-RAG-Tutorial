@@ -1,0 +1,40 @@
+CATEGORY: cs2
+SOURCE: Dexerto
+TITLE: CS2 pro claims infected tournament PC cost him his Steam account - Dexerto
+URL: https://www.dexerto.com/counter-strike-2/cs2-pro-claims-infected-tournament-pc-cost-him-his-steam-account-3383137/
+PUBLISHED: 2026-07-04
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+A major security incident has overshadowed the $1 million XSE Pro League LAN in Guangzhou, China, after professional CS2 players claimed their practice PCs had been loaded with malicious software.
+
+BetBoom’s Kirill “Magnojez” Rodnov posted a video of an antivirus scan flagging multiple spyware and trojan files on his own setup.
+
+His in-game leader Aleksandr “zorte” Zagodyrenko posted on Telegram describing his situation, revealing his tournament PC contained trojans alongside a torrent client and a private World of Warcraft server client.
+
+The situation arose because BIG’s (a German organization) tournament SSDs reportedly stopped working, forcing players onto compromised practice machines instead.
+
+According to Dust2.in, Magnojez believes logging into the infected Chinese PCs is what caused him to lose access to his Steam account entirely.
+
+‼️ Magnojez found viruses on his tournament PC at XSE Pro League. What's going on over there 😭 https://t.co/aJVSJFLCpk pic.twitter.com/HKyH1yPZi8
+
+The specific software identified was a remote access trojan capable of extracting saved passwords, stealing session tokens to bypass two-factor authentication and accessing cryptocurrency wallets.
+
+The security incident is just one part of a wider organizational collapse at the event, which has been widely described as potentially one of the worst CS2 tournaments in history.
+
+Opening matches were delayed by nearly two hours, with the backlog pushing some games back by five to six hours. Some PCs reportedly did not even have CS2 installed.
+
+The broadcast suffered from broken audio and incorrect player names and pictures, and a transformer blew up outside the venue mid-match between 9z and SINNERS, cutting power to the building for around an hour.
+
+XSE Pro League Now: They keep switching between JBONE and JBOEN1 Tyloo have 2 JamYoungs on their team The stream is getting WhatsApp notifications sounds pic.twitter.com/BNGBFAhQ6l
+
+Spotted on Chinese social media by a Reddit user, the majority of tournament officials at the event were university student volunteers with no previous LAN experience.
+
+Warzone pro exposes their cheats during $100k tournament, blames it on glitch
+
+Stewie2k’s Steam account hacked during CSGO Berlin Major playoffs
+
+CS2 pro dev1ce punches his screen at IEM Chengdu after game crash
+
+It is not the first time a CS2 LAN has descended into chaos. The CSGOEmpire Cup was abandoned entirely after teams pulled out following a series of incidents at the PGL Major, including the trophy being smashed on stage.

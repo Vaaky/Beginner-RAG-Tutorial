@@ -1,0 +1,28 @@
+CATEGORY: league_of_legends
+SOURCE: PCGamesN
+TITLE: Riot has "all sorts of smart reasons" to not make its League of Legends MMO, but Marc Merrill is confident it'll succeed
+URL: https://www.pcgamesn.com/league-of-legends/mmo-interview-philosophy-lemonade-stand
+PUBLISHED: 2026-10-02
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+The MMO genre is perhaps the hardest to break into, but Riot co-founder Marc Merrill believes its League of Legends MMO still has a chance.
+
+MMOs are, perhaps, the hardest videogames to make. They're massively multiplayer, as per their name, requiring countless hours refining servers and ensuring that minute interactions don't crash systems. They're expansive, meaning that content drops have to feel significant. But most of all, they're a lifestyle - a lifestyle that requires hours of grind and dedication. In the year of our Lord 2026, where attention spans are at an all-time low, and the cost of videogame development is constantly on the rise, producing an MMO feels like a colossal risk. New World: Aeternum and Ashes of Creation are but two of many massively multiplayer games that have bit the dust, and sadly I'm sure more will join them.
+
+Yet there's still an appetite for MMOs. You only have to look so far as next month. World of Warcraft Forever has already proven timeline-dominating. Then, in 2027, there's Guild Wars 3, which promises to innovate on the genre and make you "fall in love with MMOs" again. It's a busy ol' time.
+
+On the Lemonade Stand podcast, Aiden 'Calvin' McCaig asks Riot co-founder and Chief Product Officer Marc 'Tryndamere' Merrill how Riot's upcoming League of Legends MMO plans to compete in a market that comprises of both older gamers, who don't have time to grind, and younger players that often don't have the same attention spans or dedication. "I don't disagree with a bunch of your concerns," Merrill replies. "There are all sorts of smart reasons why we shouldn't do what we're doing."
+
+While he's scant on the details at the moment - we don't know anything about the MMO, after all - he notes that "MMOs are insane: the scale; the expectations; the challenges; the argument that they're niche. But there's lost of decisions you can make in terms of how to approach it.
+
+"One thing is that we've been building this world of Runeterra for 20 years, and pouring our hearts and soul into it. There are an awful lot of players around the world who have developed a deep affinity and love for these characters, this world, our factions. And that fandom is expressed in so many ways. People want to live in that world, and we want to deliver the ability for people to do that.
+
+"We didn't even want to try and take on the insane [MMO] space until we had a global fanbase of hundreds of millions of people," he continues. "The challenge is around, can we do justice [to the IP], and if so, how? It's a mistake to try and make something for everybody because you often end up making something for nobody by trying to make it too watered down. So there are some really hard problems, but that's the type of stuff that's worth getting out of bed for every day; to go and tackle these really hard problems."
+
+He notes that everything Riot has done - be it building TFT, its esports sphere, or hit Netflix TV show Arcane - "all felt crazy and stupid in a bunch of ways. People internally were like 'what the hell are we doing trying to go make an animated show, why are we trying to go to Hollywood?' We were like, 'we're not trying to go to Hollywood - what're you talking about?! It'll be awesome for League players!' But it has to be great. The bar is going to be high because we're not just competing with our own stuff or other gaming adaptations. We're competing with the best shows in the world. We had to do something that was really compelling, but we did!"
+
+He notes that esports came under the same scrutiny internally for being a "distraction. But anytime you do anything new, anytime you do anything risky, lots of really smart people can point out all sorts of reasons why the thing doesn't make sense or shouldn't happen. Oftentimes they're correct. But then that's part of the fun and the challenge: 'cool, how do we figure it out and win anyway?'"
+
+Brandon 'Atrioc' Ewing follows up by asking Merrill if he's worried he'll "ruin lives" with the MMO. "Yes," he laughs, and honestly, I believe him. When Riot's MMO ships, there's no doubt in my mind that it'll take over my life. I'll likely be a bit further into my 30s before that happens, but honestly, I'm totally okay with it. League's basically my life anyway; may as well just make it official.

@@ -1,0 +1,22 @@
+CATEGORY: valorant
+SOURCE: PCGamesN
+TITLE: Riot's Vanguard is coming for League of Legends and Valorant boosters, with nearly 300,000 accounts hit
+URL: https://www.pcgamesn.com/valorant/riot-vanguard-anti-cheat
+PUBLISHED: 2026-09-22
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Riot is taking aim at boosting and rank manipulation in League of Legends and Valorant, with nearly 300,000 accounts facing the ban hammer.
+
+It doesn't matter what shooter you play, 'smurfing' and cheating will always appear. For me, it's a prevalent issue in Embark Studios' The Finals; for others, it's ruining their Valorant sessions. Riot Games is continuing its crackdown on boosting and rank manipulation in both League of Legends and Valorant, with nearly 300,000 accounts now facing action through its Vanguard anti-cheat system.
+
+In a recent social media post, Riot explains that "Vanguard's boosting detection expanded from League of Legends to Valorant earlier this summer and bans have been rolling out ever since. 296,416 rent-a-rank customers served and counting." Vanguard detects when a significantly higher-ranked player logs into another person's account to push it up the competitive ladder.
+
+Riot also targets so-called 'hitchhikers,' players who benefit from a booster while continuing to play on their own Valorant or League of Legends account. In those cases, Riot can remove the rank gained through boosting even if the player never handed over their own account. That doesn't mean every one of those accounts received a permanent ban.
+
+Riot uses several penalties for this kind of behavior, including rank removal, temporary suspensions, and permanent bans depending on the violation. The FPS developer also attempts to make a distinction between boosting and simply having an alternate account. Players can still use multiple accounts to practice different champions or agents, experiment with strategies, protect their main account's ranking, or play with friends at different skill levels.
+
+However, the wider Vanguard system is also changing. Riot said in June it will soon introduce an optional on-demand mode for PCs that meet its security requirements, allowing Vanguard's driver to start when a Riot game launches instead of running from system startup. The company says these security features should help Vanguard tackle newer forms of exploits, including kernel-level cheats.
+
+Commenting on Riot's tweaks, Cheat Executive Officer Phillip 'MirageOfPenguins' Koskinas expresses that "the point of human competition is to compete against other, imperfect humans, and our imperfections are exactly what makes it a sport." The studio also confirms plans to keep its new security system voluntary for now, although it could introduce additional checks for players reaching the highest competitive ranks in the future.

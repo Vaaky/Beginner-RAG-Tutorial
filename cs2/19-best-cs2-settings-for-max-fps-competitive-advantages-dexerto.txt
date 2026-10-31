@@ -1,0 +1,70 @@
+CATEGORY: cs2
+SOURCE: Dexerto
+TITLE: Best CS2 settings for max FPS & competitive advantages - Dexerto
+URL: https://www.dexerto.com/counter-strike-2/counter-strike-2-best-settings-cs2-settings-for-max-fps-competitive-advantages-2274866/
+PUBLISHED: 2024-03-14
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+If you want to optimize Counter-Strike 2 with the best settings, designed to maximize FPS while maintaining visual fidelity, then these are the CS2 settings to use.
+
+Counter-Strike 2 is the successor to CS:GO, undergoing a substantial transformation from its predecessor, and with the change, the game now demands more from your CPU and GPU.
+
+From our testing, these are the best Counter-Strike 2 settings for maximum FPS and competitive advantages, updated as of July 2026.
+
+The first tab of settings you need to adjust is Video. Here, you can change brightness, aspect ratio, and resolution.
+
+Resolution is mostly personal preference, but we’ve got a guide on the best resolution options for CS2 here. The three most common are 16:9 (1920×1080), 16:10 (1680×1050), and 4:3 (1280×960). If you are unsure, stick with native 16:9 for now.
+
+The exact aspect ratio and resolution are up to you. However, setting it to something like 16:10, 1680×1050, will improve FPS, as the game renders at a lower resolution. Be careful if you are on a 1440p monitor too, as using this instead of 1080p will significantly reduce FPS. Stick to 1080p at most in a competitive game like CS2.
+
+Using a 16:10 aspect ratio will also stretch the game slightly, but not as much as 4:3. 4:3 is popular among professional players, but it might not be to your liking. To get stretched res, make sure your graphics card scaling settings are set to ‘fullscreen’, not ‘aspect ratio’. Using stretched res will make enemies appear slightly larger (wider), but they will also move faster across the screen space.
+
+You might think disabling FidelityFX Super Resolution would improve performance, but this setting improves your FPS by upscaling. Ultra Quality will look almost identical, with a small boost in performance. If you are struggling with FPS, you could try Quality instead, but for most players, we’d keep it Disabled.
+
+Which resolution should you use in Counter-Strike 2?
+
+Call of Duty Modern Warfare 2 best PC settings: High FPS, graphics, visibility & more
+
+Some players still report increased input latency when using FidelityFX Super Resolution, so for now, it is safest to disable it and use other settings to improve your FPS.
+
+You might be wondering why High Dynamic Range is set to Quality. Initially, we recommended performance for extra FPS. However, changing to Quality barely impacts FPS, and Performance can create a grid-line effect on the screen in some darker areas, which can be distracting.
+
+What about MSAA in CS2? If you are struggling for FPS, you can try changing to 2X MSAA instead of 4X. Having MSAA disabled entirely will give a further boost, but it becomes uncomfortable to look at. Additionally, 1% low frames are actually better with higher MSAA settings. 4X feels like the sweet spot.
+
+We also recommended setting Global Shadow Quality to High or Medium, as shadows in CS2 can give away positions. If you have shadow settings at Low, you will be at a disadvantage in some areas on maps like Nuke, especially.
+
+Model / Texture detail has almost no effect on FPS in our testing, so you should be able to keep this at medium or even high to enjoy skins looking a bit nicer. But, this has no impact on gameplay, so if you want every possible frame you can get, set this to low. Particle detail can be set to Low, but some pro players are now setting Shader detail to High for the visual improvements, and almost no FPS loss.
+
+In an update, Valve added a new setting: Texture Filtering Mode. Based on tests, this setting barely impacts FPS, but using Bilinear will grant a small FPS boost, for a limited visual downside. If you prefer the look of higher values, though, you won’t lose many FPS.
+
+Many of these settings will depend on your setup, but assuming you are using headphones when playing CS2, these settings should be a good starting point
+
+Crisp EQ will make higher-frequency sounds louder, which can assist in hearing things like dropped weapons, footsteps, and gunfire.
+
+L/R Isolation is a setting that players have been tinkering with, and there is no consensus really on what is best, but start by setting it around 50%, and give yourself time to get used to it, before changing the value. At 100%, the ‘middle’ of the audio space will be gone, pushing everything to your left and right, but this means the audio in front and behind may be less clear. At 0%, all audio will be merged, which may sound more ‘natural’, but less informative.
+
+Perspective Correction is a new feature that tries to more accurately reflect where audio is coming from, from your perspective in the game. If you’d rather make the audio more like CS:GO, you should turn this off.
+
+When it comes to the audio sliders in CS2, there is really only one volume setting that is important for competitive play: the ten-second bomb warning.
+
+Make sure to have this turned up to around 10-30%. However, Valve has now changed the ‘beeping’ sound of the bomb at 10 seconds, too, so this music is not as necessary if you don’t like it.
+
+The next batch of settings to look at are game settings. Many of these are simply personal preferences, but some will definitely improve your experience in CS2.
+
+We recommend using one of the best crosshairs used by pro players, which we have in our crosshair codes guide.
+
+Your crosshair is just a personal preference, but the majority of players prefer a ‘static’ crosshair, as it is less distracting when shooting. To get started, we recommend checking out some of the crosshairs used by pro players above.
+
+When it comes to sensitivity and DPI, it will come down to your personal preference. However, there is a generally accepted recommendation to keep your DPI fairly low in Counter-Strike, and this is no different in CS2.
+
+Many pros will use an eDPI (effective DPI) of between 700 – 1200. Anything higher than this, and it can be more difficult to be precise and make small adjustments to your aim.
+
+To work out your eDPI, you simply need to multiply your sensitivity by your mouse DPI. For example, an in-game sensitivity of 1 and DPI of 800 would give you an eDPI of 800. 1.3 sensitivity and 800 DPI would be an eDPI of 1040.
+
+The majority of other settings in CS2 are simply personal preferences, so play around with different crosshairs, key binds, and sensitivities to see what suits you.
+
+However, you should disable the ‘Detach silencer from M4A1-S and USP-S ‘setting. This will stop you from accidentally removing the silencer by right-clicking. This is a new setting in CS2, as players in CS:GO would get frustrated by misclicking and removing the silencer. Remember: there is no benefit to removing the silencer!
+
+Check out our other Counter-Strike 2 guides, including how to play left-handed and how to use the console commands.

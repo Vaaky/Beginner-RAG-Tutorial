@@ -1,0 +1,26 @@
+CATEGORY: league_of_legends
+SOURCE: PCGamesN
+TITLE: League of Legends' player satisfaction is "very high" right now, Riot says, even if gameplay is "stale" at higher levels
+URL: https://www.pcgamesn.com/league-of-legends/player-satisfaction-2026-riot-response
+PUBLISHED: 2026-09-24
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+As pros and prolific streamers remain divided on League of Legends, Riot says that it's nervous about making sweeping changes to the MOBA.
+
+League of Legends is in a bit of an odd state. While I'd argue that, in terms of balance, things certainly feel okay, I've seen various high ELO players and streamers claim that the MOBA is basically unplayable. Former Los Ratones and Witchcraft jungler Veljko 'Velja' Čamdžić says that Riot has "killed the game," all while sitting in an 18-minute long queue. Fellow LR alumni Simon 'Baus' Hofverberg has called top lane "so fucking frustrating to play," asking Riot to "fix the role." Even my own matches have felt like they go one of two very different ways: either you're stomping, or your game is filled with trolls. There's no in between.
+
+There have been jokes thrown around about no one playing in Challenger anymore, with Riot's high ELO ranked reset from earlier this year seemingly cutting deep. Most higher-level pros and streamers are currently just sitting in Master, hoping and praying that the game will feel better. A new post from League of Legends ' Lead Gameplay Designer, Matt 'Phroxzon' Leung-Harrison, however, implies that sweeping changes won't be arriving anytime soon.
+
+Responding to a post from CNG Esports' mid laner Mike 'Phantasm' Thiele, which discusses in-depth what he does and doesn't like about the current version of the game, Phroxzon acknowledges that, while "gameplay is balanced […] for high skill players [it] might be a bit stale.
+
+"That said, satisfaction and enjoyment for the vast majority of players seems very high given how popular the game is right now," Phroxzon continues. "So we're being careful about how much we change, because we feel (and have heard feedback) that gameplay is in a good state right now overall and the types of changes we could make through to the end of the year aren't the types of changes that would actually resolve the staleness adequately (mostly balance changes)."
+
+Regarding League of Legends ranked 's apex-tier distribution, which continues to prove divisive, Phroxzon agrees that "the state of apex in EU needs improvement and we're thinking about how we can deliver durable improvements here for next season." He does caveat, however: "We don't really want to mess with things as they are right now as it risks further instability."
+
+The issues at high ELO are exacerbated by the fact that EU West specifically has "the same number of Challenger and Grandmaster slots as many smaller regions," and that the "length of the ladder" is proving "demoralizing."
+
+Phantasm also took aim at the Aegis of Valor, which effectively acts as a limited-time LP 'shield' for those who play autofill, meaning they don't lose LP for a loss and receive increased XP for winning. "We acknowledge that the state of Aegis currently doesn't create great incentives and overly advantages certain role combinations," Phroxzon responds. "While we wanted to reward being able to play flexibly and be proficient in playing multiple roles, it's clear that changes are needed."
+
+We're coming to the end of 2026, with the annual Worlds patch being the last big slate of changes that we'll see. It has been a bit of an odd year, though - one that's felt neither good nor bad, just 'fine.' With all eyes firmly primed on what League Next brings to the table (Head of League Product Andrei 'Meddler' van Roon has promised us a "small update" at Worlds), it looks like Riot will have to pull out all of the stops with it to entice its high ELO players back. I really hope it can.

@@ -1,0 +1,26 @@
+CATEGORY: cs2
+SOURCE: Dexerto
+TITLE: Valve defends CS2 loot boxes in lawsuit by comparing them to Happy Meal toys - Dexerto
+URL: https://www.dexerto.com/counter-strike-2/valve-defends-cs2-loot-boxes-in-lawsuit-by-comparing-them-to-happy-meal-toys-3366629/
+PUBLISHED: 2026-05-20
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Valve told a New York court that banning Counter-Strike 2 loot boxes would also mean banning Happy Meal toys, and it would like the judge to seriously consider that.
+
+The New York Attorney General sued Valve earlier this year over its weapon skin cases in Counter-Strike 2, arguing the company had been profiting off illegal gambling for years. Attorney General Letitia James compared opening a CS2 case to spinning a slot machine. Valve, which has made billions off the feature, filed its motion to dismiss.
+
+In a 42-page filing, the company argued its mystery boxes were not gambling under New York law because every player always receives exactly one skin per case, meaning no money is ever “staked or risked.”
+
+Skins, Valve insisted, were not “something of value” under the state’s gambling statutes, since neither Valve nor its Steam marketplace ever converts them to cash directly. To underline the point, the company listed every item it believed would become illegal under the AG’s logic if the court ruled against it: baseball card packs, Labubu blind boxes, cereal box toys, grab bags at comic book stores, and Happy Meal toys.
+
+“Can a child reach into a cereal box and grab a surprise toy?” Valve asked the court. James is seeking three times the company’s profits from loot boxes and wants it barred from selling them to New Yorkers entirely. Valve also argued the legislature had repeatedly considered and declined to regulate mystery boxes, meaning the company had no reason to believe it was breaking any laws.
+
+It is not the first time Valve has faced legal pressure in 2026. A separate lawsuit filed in March already demanded the company hand back “billions” earned from CS2 cases, while a $900 million Steam pricing case cleared a UK tribunal in January and heads to full trial.
+
+Valve hits back at New York lawsuit claiming loot boxes are illegal gambling
+
+Lawsuit against Valve could be the end of loot boxes in the US according to lawyer
+
+Valve sued by State of New York for “promoting illegal gambling”

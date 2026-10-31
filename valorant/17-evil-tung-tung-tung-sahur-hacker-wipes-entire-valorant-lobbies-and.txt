@@ -1,0 +1,56 @@
+CATEGORY: valorant
+SOURCE: Dexerto
+TITLE: Evil Tung Tung Tung Sahur hacker wipes entire Valorant lobbies and mocks kernel anti-cheat
+URL: https://www.dexerto.com/valorant/evil-tung-tung-tung-sahur-hacker-wipes-entire-valorant-lobbies-and-mocks-kernel-anti-cheat-3407562/
+PUBLISHED: 2026-09-09
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+A bizarre Valorant cheater has gone viral after transforming into an evil version of Tung Tung Tung Sahur and wiping out entire enemy teams within seconds.
+
+Tung Tung Tung Sahur is an AI-generated wooden character that became one of the internet’s most recognizable brainrot memes in 2025. It has since appeared in games such as Fortnite and Roblox, although it was previously removed from Steal a Brainrot following a copyright dispute.
+
+Now, a far more sinister version of the character has apparently invaded Valorant with the help of cheats capable of exposing and automatically eliminating enemy players.
+
+The footage shared by Valorant Tactic appears to have been recorded from the cheater’s perspective, with a dark Tung Tung model replacing the standard first-person weapon display.
+
+As the first round begins, enemy silhouettes can be seen through walls while multicolored targeting lines extend across the map. The player then rapidly eliminates all five opponents and earns an ace.
+
+The video cuts to a second match on another map, where the same thing happens again. Tung Tung races toward the opposing team before the kill feed fills almost instantly, resulting in another ace.
+
+While the footage appears to show wallhacks and automated targeting, the exact software being used is unknown. It is also unclear whether the Tung Tung model was visible to other players or existed only on the cheater’s screen.
+
+The clip gained considerably more attention when Valorant analyst vladk0r reposted it alongside the caption: “kernel level anticheat vs tung tung tung cheat-hur.”
+
+kernel level anticheat vs tung tung tung cheat-hur https://t.co/mWvw7zC2Lg pic.twitter.com/8bA2SyGS2t
+
+The post was responding directly to Valorant Esports President Leo Faria, who had been addressing concerns about competitive integrity as more VCT competition moves online in 2027.
+
+Richard Lewis: Can we trust Valorant’s anti-cheat?
+
+Richard Lewis: Despite Riot’s hopes, Valorant will have cheaters
+
+First clips of Valorant hackers emerge two days into closed beta
+
+“All the same protections still apply, including our kernel-level anti-cheat,” Faria said, adding that players caught cheating in online qualifiers could be barred from competing in the VCT.
+
+Vladk0r later raised a more serious concern about teams encountering cheaters during a tournament bracket.
+
+I see your concerns around competitive integrity with more online play in the VCT next year. We’ll share more soon about all the measures we’re putting in place to protect it. But there’s one important thing to understand: online does not mean anonymous. If you cheat in ranked,… https://t.co/J0eUEBndA0
+
+“Imagine losing to a team with this s*** only for them being banned later after few rounds of the bracket,” he wrote, arguing that the damage could already be done by the time Riot disqualified the offending team.
+
+Riot recently introduced an optional on-demand mode for Vanguard, its controversial kernel-level anti-cheat system. The developer has also acknowledged that it is encountering “more cheating assets than ever before” as AI coding tools make cheats easier to create.
+
+However, Riot maintains that Vanguard can keep pace by detecting the methods used to inject cheats into a computer rather than attempting to identify each individual program.
+
+Riot Anti-Cheat Director Phillip Koskinas has now responded to the viral footage, confirming that the account involved had already been banned before the clip exploded online.
+
+In a September 9 post, Koskinas identified the account as FaeL o Anacondo#br1 and said it was banned on September 3 after playing three games. He referred to the cheat as “Sysinfo,” dismissing it as “lowskill vibeslop.”
+
+Riot ID: FaeL o Anacondo#br1 Banned: 2026-09-03 Games Played: 3 Cheat Name: "Sysinfo" (lowskill vibeslop) Hiding the Riot ID: Pointless We can detect anything with time, but VAL is a free to play game. Agree that we have to improve pre-emptive posture for open qualifiers. https://t.co/4h1GpajkuQ
+
+“Hiding the Riot ID: Pointless,” Koskinas wrote. “We can detect anything with time, but VAL is a free to play game.”
+
+The account was therefore banned six days before the footage went viral. However, Koskinas also agreed that Riot needs to improve its pre-emptive protections for open qualifiers, directly addressing concerns about cheaters potentially disrupting tournament brackets before being detected.

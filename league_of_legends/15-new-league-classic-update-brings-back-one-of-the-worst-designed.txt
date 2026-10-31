@@ -1,0 +1,36 @@
+CATEGORY: league_of_legends
+SOURCE: PCGamesN
+TITLE: New League Classic update brings back "one of the worst-designed spells in League of Legends"
+URL: https://www.pcgamesn.com/league-of-legends/classic-patch-5
+PUBLISHED: 2026-10-04
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+League of Legends Classic patch 5 introduces another five new champions to the old-school version of the Riot MOBA, with some “ass” spells.
+
+It's time to take a look at League of Legends Classic patch 5, and here to walk us through all the new champions debuting in Riot's old MOBA is Game Designer David 'Phreak' Turley. We've got five additional characters joining the lineup this time, and Phreak notes that he's now "in charge of champion release quality, so if there are major issues, I'm accountable." That makes him the ideal person to detail what we can expect from these throwback incarnations of Aatrox, Irelia, Karma, Quinn, and Caitlyn, all of which "have some pretty meaningful level of rework going on" from their modern forms.
+
+Starting up top, we have a full rework (or un-rework, if you prefer) for Aatrox. This takes the Darkin Blade back to how he was when he first arrived in League of Legends back in the day. His passive causes his abilities to self-damage and fill a Blood Well, boosting his attack speed, and when he would die this is drained to revive him (on a cooldown) with health based on how much blood it contains. Dark Flight has Aatrox fly up and then crash down to deal damage and knock opponents up in a circle.
+
+Blood Thirst heals Aatrox every three attacks, while Blood Price deals bonus damage instead - you'll have to toggle between them, so can only have one active at a time. If you need some guidance, Phreak suggests swapping at around the 50% health mark. Blades of Torment is a heavy triangle-shaped nuke that damages and slows, while his ultimate Massacre deals damage to all nearby enemy champions, granting temporary bonus attack speed and range.
+
+Also completely different is Irelia. Ionian Fervor gives her Tenacity for each enemy champ that's nearby. Bladesurge dashes to an enemy dealing damage, resetting the cooldown and half the mana cost upon a kill. Phreak notes that this doesn't get the bonus damage against minions it does in the modern game, so you can't easily rely on resets with just a single-point investment. It does, however, come with a full 100% AD ratio, more than it does in 2026.
+
+Hiten Style provides on-hit heals passively, and you can activate it to gain true damage and additional healing. Equilibrium Strike damages and slows an enemy, unless their health percentage is higher or equal to that of Irelia, in which case it'll stun them instead of the slow. Irelia's ultimate, Transcendent Blades, gives her four spirit blades that act as line nukes that siphon life from their victims to heal her.
+
+Continuing the full reworks, we have Karma. Inner Flame awards her bonus ability power based on the amount of missing health she has. Her ultimate, Karma, which is the one piece that still survives today, starts available from level one and will empower her next ability used to grant it a bonus effect. Unlike nowadays, those benefits scale with the individual skill ranks, not the level of Karma itself. Heavenly Wave deals magic damage in a cone ahead of Karma, and if you use Mantra it'll heal any allies in the area based on their missing health percentage. Soul Shield summons a protective shield on Karma or a teammate, with radiating damage if you apply Mantra to it.
+
+Spirit Bond tethers Karma to another unit, giving her and allies a movespeed bonus, while enemies get a slow. The connecting beam damages and slows enemies it hits, and Mantra doubles the effect of all these bonuses. "This is a very awkward skill to use," Phreak notes, "I would expect Karma's win rate to be quite low on launch from the learning curve." He goes so far as to call it "one of the worst-designed spells" Riot ever released, laughing as he apologizes to the developer responsible. "I'm sorry, this spell is ass. But I think the kit is cool."
+
+Quinn and Valor will feel slightly more familiar, though there are still notable changes. Harrier periodically marks enemies for bonus damage on attack; Phreak reveals this used to have a random element to its cooldown, but that he chose to remove it here "because I think it's really stupid." Blinding Assault is a familiar area-of-effect nuke that deals damage and applies nearsighted. Heightened Senses grants passive attack speed and move speed on consuming Harrier, and can be activated to reveal the surrounding area.
+
+Vault dashes Quinn to an enemy, dealing damage and slow along with a short knockback. "The actual range tuning is pretty different from live," Phreak remarks, "if you are doing a melee-range vault, you are not remotely in attack range afterwards. That is a disengage spell." Tag Team returns as the ultimate, with Valor replacing Quinn as a stronger, faster melee fighter for up to 20 seconds. At the end or when recast, Quinn returns to deal damage around her with Skystrike.
+
+Last on today's list is Caitlyn, who does get a partial rework but is "one of the least different" from live. Her Headshot passive gives bonus damage every few attacks, with twice the proc rate if she's in the bushes. Piltover Peacemaker is a line nuke that reduces in damage for each target hit. Yordle Snap Trap roots enemies that walk over it and deals magic damage over time (note this is different from the modern version, which grants a Headshot bonus instead).
+
+Additionally, Phreak reveals the trap has been adjusted so opponents can no longer trigger it without being caught using a quick in-and-out. To compensate, the radius has been slightly reduced. "The reason you like League Classic is not because your spells failed sometimes." 90-Caliber Net fires a projectile that damages and slows, sending Caitlyn flying backwards. Finally, Ace in the Hole is her high-damage snipe, which can be blocked if something steps in the way as it travels.
+
+On the balance side, Spirit Visage, Force of Nature, and Warmog's Armor all get extra health regen to compensate for earlier miscalculations. Among the champions, there are "very large" nerfs to Graves, alongside power reductions for Fizz and Fiora, while Nautilus and Kennen see buffs. Graves also gets some animation fixes in response to player feedback.
+
+League of Legends Classic patch 5 should be released on Wednesday October 7 alongside the LoL 26.20 update. Phreak teases that patch 6 will feature another four additional champions as Riot continues its speedy rollout plans, two of which will include "meaningful art changes" from the current day.

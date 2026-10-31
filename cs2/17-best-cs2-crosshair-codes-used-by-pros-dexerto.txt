@@ -1,0 +1,106 @@
+CATEGORY: cs2
+SOURCE: Dexerto
+TITLE: Best CS2 crosshair codes used by pros - Dexerto
+URL: https://www.dexerto.com/counter-strike-2/best-cs2-crosshair-codes-used-by-pros-s1mple-zywoo-niko-2179701/
+PUBLISHED: 2024-03-14
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+Using the right crosshair for you in Counter-Strike 2 is crucial. But, if you don’t know where to start, why not copy a pro? These are the best crosshair codes for CS2 used by the world’s top players.
+
+With the perfect crosshair in Counter-Strike 2, you’ll feel more comfortable hitting headshots, lining up grenades, and controlling your spray.
+
+By default, CS2 will give you a dynamic green crosshair. However, this is not very popular among seasoned players, as the crosshair’s movement can be distracting. Instead, the more common choice is a static crosshair, that stays perfectly still when you fire or move.
+
+There are countless options for your crosshair, and you could spend hours tweaking it. To save time, these are the best CS2 crosshairs pro players use, including AWPers and riflers, which you can try by copying their crosshair codes.
+
+Use the ‘Filter Player’ and ‘Filter Team’ functions to quickly find who you’re looking for, and click their name to see an in-game preview of the crosshair.
+
+Pro players often change their crosshairs regularly, but we’ll keep this list as updated as possible with new crosshairs as they change. Also, remember that crosshairs will look bigger or smaller depending on what res you play on (16:9/16:10/4:3).
+
+We’ve updated and tested these codes based on the latest available settings from the pro players. These codes are based on what they used in their last match on record. We have updated crosshair codes based on what players are using now, in August 2026.
+
+ZywOo, now a major winner in both CS:GO and CS2, is almost as good with an AK as the best riflers in the world, while being an AWP user primarily.
+
+Counter-Strike 2 directory: Quick links to our tips & CS2 guides
+
+ZywOo’s CS2 settings: Config, resolution, viewmodel, DPI, sensitivity & more
+
+He uses a cyan crosshair as shown, but is regularly playing around with his crosshair. So, like others, you might see him trying something else on stream.
+
+You can see ZywOo’s complete settings here.
+
+Few would argue that Nikola ‘NiKo ‘Kovač is the best rifler in the world. If you aspire to be as good as the Falcons star, you’re probably out of luck, but at least you can emulate his crosshair with the code provided.
+
+Check out NiKo’s full settings here.
+
+A new entry on the list of best players in the world, a 17-year-old phenom donk lit up the CS world with his monster performance at IEM Katowice 2024, and now he’s a major champion, and IEM Cologne winner.
+
+Unsurprisingly, his crosshair will now be copied by thousands of players, hoping it might let them entry frag like him. Obviously, it won’t, but it can’t hurt to try.
+
+You can see donk’s full CS2 settings here.
+
+Like many players, the young prodigy m0NESY uses a cyan-colored crosshair. Although he’s only been in the pro scene for a couple of years, Falcon’s new AWPer has more than proved himself at the highest level and is one of the most exciting players in the world.
+
+He usually has a cyan crosshair, but he has recently swapped it out for a green crosshair instead, so you might want to give it a try.
+
+You can find m0NESY’s settings in full here.
+
+s1mple is regarded as the best player in the history of Counter-Strike, and although he’s been taking time out for a lot of CS2, he previously joined FaZe for the Austin Major, and managed a run to the playoffs.
+
+He was last seen using a cyan crosshair, on a 4:3 resolution.
+
+You can see s1mple’s complete Counter-Strike settings here.
+
+Despite some time away from professional play, Astralis legend Nicolai ‘dev1ce ‘Reedtz is back to the grind with 100 Thieves. He was last seen using this yellow crosshair with a fairly wide center gap.
+
+Falcons prodigy kyousuke has hit the ground running on the professional scene, helping propel them to a Major win at IEM Cologne.
+
+If you want to try out his crosshair, it’s this neat yellow one he uses to tap heads.
+
+Arguably the greatest North American player of all time in CS:GO, Twistzz, FaZe’s Canadian rifler, is another headshot machine, and he does it all with this simple cyan crosshair.
+
+He rarely changes from this crosshair too, so maybe you ought to stick with it as well.
+
+Liquid star, Mario ‘malbsMd’ Samayoa, rose up the ranks to tier 1 CS rapidly, and is now cemented as one of CS2’s strongest players. If you want to replicate the Guatemalan’s crosshair, which is a small green one, use the code above.
+
+Robin ‘ropz’ Kool, is often lauded as one of the players with the greatest mechanical skill in CS, even leading to pros accusing him of cheating before he went pro. Of course, it’s actually just his crisp aim, which he achieves with this green crosshair.
+
+Dmitriy ‘sh1ro’ Sokolov, now with Team Spirit, is a superstar in his own right, even if he doesn’t get the shine of his contemporaries like m0nesy and ZywOo. His crosshair is somewhat unique among pros, with a green color.
+
+Mareks ‘YEKINDAR’ Gaļinskis was once tipped as the best entry-fragger role player in the world, with his signature aggression on the T side.
+
+He’s more than happy to push any bombsite, confident his expert crosshair placement will help him clear the CT’s power positions. He does so with this neat and tidy green crosshair.
+
+Another of NA’s finest, Jonathan ‘EliGE’ Jablonowski’s standout trait is often his spray control. While you might think your crosshair is not all that important in this regard, the difference between a dynamic and static crosshair will determine whether it expands or not when firing. ELiGE, like most pros, prefers a static one.
+
+Furia’s young new AWPer molodoy has been a sensation in his first year at the top level. You can try out his crosshair with the code above, but no promises it will help you match his aggressive AWP style of play.
+
+One of the finest aimers in the world, flameZ’s precision is often key to Vitality’s success.
+
+If you want to replicate his crosshair, copy his code above for a pretty standard cyan option.
+
+While we’ve picked out some of the best crosshairs from the best players above, there are countless more pro players to choose from. Here’s a selection of more codes for you to try:
+
+You import crosshair codes in CS2 through the ‘game settings’ menu, by simply pasting the code you want to try. This will change your in-game crosshair instantly. Follow these steps:
+
+This will then change your crosshair to the exact settings used by the professional player. You may also want to check their res though, as most pros play on a 4:3 stretched res, which will make the crosshair larger than on default, 16:9 res.
+
+If you want to keep a record of your own code, simply click ‘copy my code’ before importing a new one, and then save this somewhere. That way, you can always revert to your previous crosshair easily.
+
+If you see a crosshair another player is using when playing in a match, it’s easy to copy their crosshair too. Here’s how to copy another player’s crosshair:
+
+Remember, it’s a good idea to take note of your preferred crosshair codes before so you can easily revert if you want it back.
+
+Even if you don’t use one of the crosshairs listed above, there are a few tips that you should keep in mind when creating ther perfect crosshair for you in CS2.
+
+Static vs Dynamic: We strongly recommend using a static crosshair, which will prevent it moving when you are walking or sprinting. If you are brand new to CS, it may be helpful to use dynamic – to remind you about movement innaccuracy. But, once you have the hang of it, a static crosshair will typically be much easier to control recoil, when spraying.
+
+Follow recoil: Speaking of recoil, CS2 has a new “follow recoil” setting, which will track where the next bullet in a spray will land. Although some players have dabbled with it, it’s very rarely used among top players, which indicates it’s probably not optimal, unless you are really trying to master spray control.
+
+Size and color: When it comes to the size and color of your crosshair, of course this is personal preference. However, cyan is the most popular color, as it stands out against almost all backgrounds. Green and Yellow are also popular choices. Red and dark blue is less common, as it can be less visible in dark areas of maps.
+
+For the size, remember that the resolution and aspect ratio you play on will impact how large the crosshair appears on your screen, so if you copy a pro player’s code, it will appear differently if your display settings are different.
+
+If you want the best settings for CS2, including audio settings, check out our guide here.

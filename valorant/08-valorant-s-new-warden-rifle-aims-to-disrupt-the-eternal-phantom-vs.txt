@@ -1,0 +1,24 @@
+CATEGORY: valorant
+SOURCE: PCGamesN
+TITLE: Valorant's new Warden rifle aims to disrupt the eternal Phantom vs Vandal contest
+URL: https://www.pcgamesn.com/valorant/patch-13-06-new-gun-warden
+PUBLISHED: 2026-09-14
+SCRAPED: 2026-10-22
+
+----------------------------------------------------------------------
+
+The new 2900-credit, long-range weapon will arrive in Valorant alongside brand new mode, Gauntlet: Glitched, and an Agent Mastery system.
+
+Step aside, Phantom and Vandal mains - or rather, step back - because Valorant will soon have a new rifle. And it's lining up its shot from a distance. Arriving as part of patch 13.06 on Tuesday September 22, the Warden promises to deliver "a distinct long-range option" at a price point in balance with the FPS game 's existing two primary rifles.
+
+Much like both the Phantom and Vandal, the Warden is a fully automatic rifle priced at 2900 credits, but that's about where the similarities end. It'll come equipped with a 2x magnification scope, and crucially deals a consistent 50 body damage at all ranges, entirely ditching the damage drop off of its two older siblings. As you might expect, that extra power at a distance does have some drawbacks. Namely, the Warden sports just 18 bullets per magazine, and a decidedly lower fire rate than both the Phantom and Vandal.
+
+"While we love the ongoing Phantom vs. Vandal debate on full buy rounds, we thought there was room to satisfy more playstyles and provide more optionality," Riot writes in an accompanying fact sheet. "The Warden shakes things up with a unique long-range power profile while maintaining the versatility you'd expect from a rifle. It also provides a strong option for players who like to use their ADS (aim down sights) to hold longer sight lines with best-in-class first shot accuracy."
+
+The aim appears to be to offer an affordable middle ground between rifles and Valorant 's expensive Operator sniper rifle. While existing weapons like the Guardian, Marshal, and Outlaw are capable at range, they lack the flexibility of a fully automatic rifle, often making them a second choice to the Phantom and Vandal.
+
+The Warden certainly leans into Riot's plans to take "risks" with Valorant, but it's far from the only update on the way to the competitive FPS. A new "experimental" mode called Gauntlet: Glitched will see players drafting abilities from a randomized pool before duking it out in round robin elimination matches between eight teams. Abilities will be upgraded through the match, with "glitches" capable of significantly reshaping existing powers. Examples include Yoru's decoys actually being able to fire bullets and Gekko's wingman being, well, a whole lot bigger.
+
+A new Agent Mastery system is also on the way, bringing upgradable portrait icons and Agent IDs that'll really let Jett mains reassure you with just how often they've dashed headlong into an Operator bullet. The existing Agent Gear will be shifted over to the Agent Mastery rewards track, with players retaining anything they've already unlocked.
+
+You'll be able to rifle through all the new additions including the Warden, Gauntlet Glitched game mode and Agent Mastery system on September 22 as part of Patch 13.06 for Valorant.
